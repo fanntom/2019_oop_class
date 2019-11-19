@@ -1,8 +1,0 @@
-version: '2.1'
-
-services:
-  oop6:
-    image: oop6
-    build: .
-    ports:
-      - 3000:3000
